@@ -117,14 +117,6 @@ body{
     background-image: url('./img/googleplay-button.png');
 }
 
-.anuncios p{
-    background: yellow;
-    position:absolute;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-    
-}
-
 /*media queries - responsividade de tablete ou de smartphone*/
 
 @media(max-width: 1024px){
